@@ -60,3 +60,6 @@ Style-Sheets
             background-color: aqua;
         }
 ```
+
+CSS 伪类用于向某些选择器添加特殊的效果。  
+CSS 伪元素用于将特殊的效果添加到某些选择器。  
